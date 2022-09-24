@@ -1,5 +1,5 @@
-## Generic Adder
-# RTL CODE
+# Generic Adder
+## RTL CODE
 ```
 module bit4_adder(Ain, Bin, Cin, sum, carry);
     parameter width = 24;
@@ -25,7 +25,7 @@ genvar i;
 
 endmodule
 ```
-# TB
+## TB
 
 ```
 module generic_testbench();
