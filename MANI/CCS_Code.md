@@ -1,5 +1,5 @@
-## CCS Code
-# MSP430
+# CCS Code
+## MSP430
 Code to be added to in MSP430
 ```
 /*
