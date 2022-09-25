@@ -55,18 +55,4 @@ always #1555 rst=~rst;
 
 endmodule
 
-
-LATCH RTL
-
-module latch(
-input din,clk,
-output reg dout
-    );
-   
-    always@(clk or din)
-    begin
-    if(clk)
-     dout<=din;
-    end
-endmodule
 ```
