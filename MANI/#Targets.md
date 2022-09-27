@@ -1,4 +1,14 @@
 # Targets to be achieved
+"""This weeek Targets"""
+```
+1. **VLSI DAY**
+2. Soldering in requuired places of the model.
+3. WIZNET CODE
+4. CCS code alternative or solution 
+5. Sprinkler selection and fixing
+6. Importand Softwares
+```
+
 """
 Onlist Targets
 """ 
@@ -28,6 +38,7 @@ Onlist Targets
     9.1 Research for new paper for review 2
               OR
     9.1 Setting alternatives for previous papers
+10. Getting Vivado or any alternative of Vivado
 
 ```
 """
@@ -37,5 +48,6 @@ Long term Target
 1. Paper collection 
 2. Research in agro domain
 3. Hardware research
-4. CodeChef
+4. Codechef
+5. Collection of Valuable Docs related to programmable boards.
 ```
