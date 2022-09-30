@@ -2,11 +2,11 @@
 """This weeek Targets"""
 ```
 1. **VLSI DAY**
-2. Soldering in requuired places of the model.
+2. Soldering in required places of the model.
 3. WIZNET CODE
 4. CCS code alternative or solution 
 5. Sprinkler selection and fixing
-6. Importand Softwares
+6. Important Softwares
 ```
 
 """
